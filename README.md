@@ -1,4 +1,4 @@
-’ve successfully completed a data analysis project where I explored the unemployment trends in India using Python 📊
+I’ve successfully completed a data analysis project where I explored the unemployment trends in India using Python 📊
 
 📌 What I Did:
 
